@@ -1,0 +1,304 @@
+header {
+   
+    position: relative;
+   
+    top: 15px; 
+   
+  
+  
+    font-size: 50px;
+   
+    color: #881A1B;
+   
+    text-align: center;
+   
+    padding: 20px;
+   
+    font-family: 'Noto Serif', serif;
+}
+
+
+ul {
+  list-style-type: none;
+   
+  margin: 30px;
+   
+  padding: ;
+   
+  overflow: hidden;
+   
+  background-color: white;
+ 
+  overflow: auto;  
+
+   
+   
+list-style:none;
+   
+display:flex;
+   
+    flex:1 0 0%;
+   
+justify-content:space-between
+         
+
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: inline-block;
+   
+  color: #881A1B;
+   
+  text-align: center;
+   
+  padding: 18px 16px;
+   
+  text-decoration: bold;
+   
+  font-size: 20px
+      
+      font-family: 'Noto Serif', serif;
+    }
+
+li a:hover {
+  background-color: #881A1B;
+   
+  color: white;
+    
+
+}
+
+ 
+.h1 {
+
+color: #881A1B;
+display: flex;
+    margin-left:auto;
+    margin-right:auto;
+    padding-left: auto;
+    padding-right: auto;
+    width: 85%;
+    height: auto;
+        font-family: 'Noto Serif', serif;
+font-size: 30px;
+} 
+
+.h2 {
+    display: flex;
+    margin-left:auto;
+    margin-right:auto;
+    padding-left: auto;
+    padding-right: auto;
+    width: 85%;
+    height: 75%;
+    overflow: hidden;
+    font-family: 'Noto Serif', serif;
+    font-size: 17px;
+    }
+
+.h3 {
+     display: flex;
+    margin-left:auto;
+    margin-right:auto;
+    padding-left: auto;
+    padding-right: auto;
+    width: 85%;
+    height: 75%;
+    overflow: hidden;
+    font-family: 'Noto Serif', serif;
+    font-size: 17px;
+    
+    
+    
+    
+}
+
+
+
+ 
+.flex-container {
+    display: flex;
+    justify-content: center;
+    margin:auto;
+    align-content: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    width:100%;
+}
+
+.flex-item {
+    display: flex;
+    margin-left:auto;
+    margin-right:auto;
+    padding-left: auto;
+    padding-right: auto;
+    width: 75%;
+    height: auto;
+}
+
+
+img {
+
+ margin-top: -110px;
+ 
+    height: 100px;
+   
+    width: 100px;
+
+ padding: 20px;
+
+ float: left;
+
+ display: block;
+ 
+overflow: hidden;  
+    }
+
+
+header {
+
+    font-family: 'Noto Serif', serif;
+}
+               
+
+
+
+
+
+footer {    
+color: #881A1B;
+}  
+
+
+
+.icon-bar {
+  position: fixed;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+    float:left;
+}
+
+
+.icon-bar a {
+  display: block;
+  text-align: center;
+  padding: 16px;
+  transition: all 0.3s ease;
+  font-size: 20px;
+}
+
+
+.icon-bar a:hover {
+    background-color:#881A1B;
+    color: white;
+}
+
+
+.facebook {
+  background: white;
+
+  color: #881A1B;
+}
+
+.twitter {
+  background:  white;
+
+  color: #881A1B;
+}
+
+.google {
+  background: white;
+  color: #881A1B;
+}
+
+.linkedin {
+  background: white;
+  color:#881A1B;
+}
+
+.youtube {
+  background: white;
+  color: #881A1B;
+}
+
+
+.footer {
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  color: #881A1B;
+  text-align: center;
+ 
+}
+
+
+h1,h2,h3,h4,h5,h6{
+    display: flex;
+    margin-left:auto;
+    margin-right:auto;
+    padding-left: auto;
+    padding-right: auto;
+    width: 80%;
+    height: 75%;
+    overflow: hidden;
+    font-family: 'Noto Serif', serif;
+    font-size: 17px;
+     color: #881A1B;
+}
+
+    
+}
+
+.onep {
+ display: flex;
+    margin-left:auto;
+    margin-right:auto;
+    padding-left: auto;
+    padding-right: auto;
+    width: 80%;
+    height: 75%;
+    overflow: hidden;
+    font-family: 'Noto Serif', serif;
+    font-size: 17px;
+
+}
+
+
+.lastp {
+  display: flex;
+    margin-left:auto;
+    margin-right:auto;
+    padding-left: auto;
+    padding-right: auto;
+    width: 80%;
+    height: 75%;
+    overflow: hidden;
+    font-family: 'Noto Serif', serif;
+    font-size: 17px;
+       
+}
+
+
+
+
+.launchp {
+   font-size: 25px; 
+    display: flex;
+    margin-left:auto;
+    margin-right:auto;
+    padding-left: auto;
+    padding-right: auto;
+    overflow: hidden;
+    font-family: 'Noto Serif', serif;
+     width: 80%;
+    height: 75%;
+    
+}
