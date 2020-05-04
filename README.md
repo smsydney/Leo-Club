@@ -2,7 +2,7 @@
 
 We did not finish our project.
 
-Keland Bradley
+Keland Bradley/
 Sydney Marshall
 
 Hypertext Assassins
